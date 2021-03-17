@@ -1,0 +1,2 @@
+# AdXOV_Generator
+AdXOV用コードのジェネレータが保管されるとこ
